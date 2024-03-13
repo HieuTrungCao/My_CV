@@ -2,7 +2,7 @@
 
 # WELCOME TO MY PAGE 👋👋👋
 
-#### Full Name: Hieu Trung Cao
+#### Full Name: Hieu Cao Trung
 #### Born: 2003
 
 ## Education	 			        		
