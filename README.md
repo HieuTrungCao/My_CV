@@ -2,9 +2,9 @@
 
 <h1>Hieu Trung Cao</h1>
 
-Curriculum Vitae
+<div>Curriculum Vitae<div>
 
-hieuhocao@gmail.com
+<div>hieuhocao@gmail.com<div>
 </div>
 
 <div align="Left">
