@@ -5,6 +5,7 @@
 Curriculum Vitae
 
 hieuhocao@gmail.com
+</div>
 
 <div align="Left">
 
@@ -38,3 +39,4 @@ ternational Workshop on Vietnamese Language and Speech Processing, 2023
 
 ## Technical Skills 
 - C++, Python, Pytorch, Java, MySql, Linux
+</div>
