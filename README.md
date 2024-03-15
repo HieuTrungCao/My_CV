@@ -1,6 +1,6 @@
 <div align="Center">
 
-<h1>Hieu Trung Cao</h1>
+## Hieu Trung Cao
 
 Curriculum Vitae
 
