@@ -1,9 +1,12 @@
-### Hi there 👋
+<div align="Center">
 
-# WELCOME TO MY PAGE 👋👋👋
+<h1>Hieu Trung Cao</h1>
 
-#### Full Name: Hieu Cao Trung
-#### Born: 2003
+Curriculum Vitae
+
+hieuhocao@gmail.com
+
+<div align="Left">
 
 ## Education	 			        		
 - B.S., Computer  | VNU University of Engineering and Technology (_2025(expected)_)
@@ -14,6 +17,10 @@
 - **Artificial Intelligence**: Completed the Machine Learning Specialization and Deep Learning Specialization courses on Coursera. I have a solid understanding of the fundamental concepts in Machine Learning and Deep Learning. I am capable of applying various models to specific tasks. 
 - **Data Structures and Algorithims**: Strong understanding of fundamental data structures and algorithms, including arrays, linked lists, stacks, queues, trees, graphs, sorting, and searching algorithms.
 - **Object-Oriented Programming**: Strong understanding of the basic concepts of object-oriented programming, such as Object, Class, Interfaces, Method, inheritance, polymorphism and fundamental principles of abstraction, modularity, and reusability in object-oriented design.
+
+**Research Interests**
+- Natural Language Processing
+- Computer Vision
 
 **Research Experience**
 - Legal Texture Entailment Recognition: V. Tran, H.-T. Nguyen, T. Vo, T.-S. Luu, H.-A. Dang, N.-C. Le, T.-T. Le, M.-T.
