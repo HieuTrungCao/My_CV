@@ -34,6 +34,11 @@
         <li>Legal Texture Entailment Recognition: V. Tran, H.-T. Nguyen, T. Vo, T.-S. Luu, H.-A. Dang, N.-C. Le, T.-T. Le, M.-T.Nguyen, T.-S. Nguyen, and L.-M. Nguyen, “Vlsp 2023 - lter: A summary of the challenge on legal textual entailment recognition,” in Proceedings of the 10th In- ternational Workshop on Vietnamese Language and Speech Processing, 2023</li>
     </ul>
 
+<h2>Working Experience</h2>
+    <ul>
+        <li> ReAI, Faculty of IT, UET-VNU, Vietnam</li>
+    </ul>
+
 <h2> Project </h2>
     <ul>
         <li>Legal Texture Entailment Recognition: <a href="https://github.com/HieuTrungCao/Legal_Textual_Entailment_Recognition/">Github</a></li>
